@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @icaro-david, I'm just starting to code
 - 👀 I’m interested in coding and developing web applications
-- 🌱 I’m currently learning HTML[Pug], CSS[Sass/Scss], JavaScript[ReactJs, VueJs, AngularJs], Python
+- 🌱 I’m currently learning JavaScript[ReactJs, VueJs, AngularJs], Python
 - 💞️ I’m looking to collaborate on web application projects
 - 📫 Reach me on contato.icarodavid@gmail.com
 
